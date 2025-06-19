@@ -1,0 +1,31 @@
+RISK:-
+      Some of the model undergoes Overfitting
+
+      High computational time.
+
+      Unbalanced data.
+
+      Data quality
+
+ANALYSIS:-
+            Enhance environment statisfication,salary hike and promotion since these features show strong link to employee performance.
+
+            Conduct regular employee satisfaction surveys and address feedback promptly.
+
+            Provide clear growth opportunities and career development plans.
+
+            Recognize and reward achievements to boost morale.
+
+            Features like YearsInCurrentRole may indicate employees feel stagnant or lack development opportunities so implement regular training and upskilling programs tailored to employee needs.
+
+            High correlation with features like Environment Satisfaction suggests dissatisfaction with the work environment contributes to attrition so improve workplace amenities and ergonomics.
+
+            Analysis may reveal that certain departments, age groups, or experience levels have higher attrition rates.Implement tailored retention strategies for high-risk groups.
+
+            Features like YearsAtCompany show that newer employees leave more frequently, recruitment processes might need improvement.Clearly communicate job expectations and company culture during hiring.
+
+            Allow flexible work arrangements, including hybrid or remote work options.
+
+            Offer sufficient paid leave and encourage employees to take time off.
+
+            Review and adjust policies regularly to ensure alignment with employee needs.

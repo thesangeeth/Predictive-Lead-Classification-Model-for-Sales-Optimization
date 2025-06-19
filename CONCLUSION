@@ -1,0 +1,19 @@
+Prepared a complete data analysis report on given data and found out how various factors like Age, Gender, EducationBackground, MaritalStatus, EmpDepartment, EmpJobRole, BusinessTravelFrequency,DistanceFromHome, EmpEducationLevel, EmpEnvironmentSatisfaction, EmpHourlyRate, EmpJobInvolvement, EmpJobLevel, EmpJobSatisfaction, NumCompaniesWorked, OverTime, EmpLastSalaryHikePercent,EmpRelationshipSatisfaction, TotalWorkExperienceInYears, TrainingTimesLastYear and their variation will effect in determining the employee attrition.
+
+EDA has been performed on the data inorder to find out the relation among the data, its correlation, general patterns and trends.
+
+Data has been preprocessed inorder to find out the missing values duplicate values and outlier detection.
+
+There where no missing values as well as no duplicates rows.
+
+Outliers has been removed using IQR method and Three sigma rule.
+
+Minmax scaler is used to scale the data and One hot encoding is used to convert categorical columns to numerical values.
+
+The target value which is of YES and NO has been replaced with (1,0) respectively.
+
+The data was imbalanced so it was sampled using oversampling technique smote.
+
+Done Feature engineering to select most relevant features ,analysed the correlation dropped unwanted features.
+
+SUPPORT VECTOR CLASSIFIER is selected has the generalized model for given problem since it gives 91% for training and 84% for testing accuracy with a gap of only 7% compare to other models
